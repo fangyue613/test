@@ -7,5 +7,10 @@ class UserController
          echo '111';
    }
 
+   public function add()
+   {
+   	
+   }
+
    
 }
